@@ -16,6 +16,3 @@ Console.WriteLine("weißwein");
 Console.WriteLine("Kaffee");
 Console.WriteLine("Kakao");
 Console.WriteLine("zucker");
-Console.WriteLine("bread");
-Console.WriteLine("butter");
-
